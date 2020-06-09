@@ -1,15 +1,16 @@
-Unity to High Fidelity Exporter (1.0)
+Unity to Metaverse Exporter (1.0)
 =======
 
-GitHub: https://github.com/highfidelity/unity-to-hifi-exporter/
+This exportor is designed to export to the formats supported by platforms that are based on the High Fidelity VR Platform (HFVRP). This includes, but not limited to, the following:
 
-Contact: info@highfidelity.io
+* Vircadia https://vircadia.com/
+* Tivoli Cloud VR https://tivolicloud.com/
 
-The Unity to High Fidelity JSON/FBX Exporter is adapted from the Unity FBX Exporter by Kellan Higgins(https://github.com/KellanHiggins/UnityFBXExporter).  
+It is adapted from the Unity FBX Exporter by Kellan Higgins(https://github.com/KellanHiggins/UnityFBXExporter).  
 
-It is a simple JSON and FBX writer designed to export static objects (and render skinned meshes to static poses) from Unity into the FBX format, preserving the materials, game object hierarchy and textures attached.
+At present it is a simple JSON and FBX writer designed to export static objects (and render skinned meshes to static poses) from Unity into the FBX format, preserving the materials, game object hierarchy and textures attached.
 
-It was written for High Fidelity - An early-stage technology lab experimenting with Virtual Worlds and VR.  https://github.com/highfidelity/hifi
+It was originally written for High Fidelity - An early-stage technology lab experimenting with Virtual Worlds and VR.  https://github.com/highfidelity/hifi https://github.com/highfidelity/unity-to-hifi-exporter/
 
 
 Features
